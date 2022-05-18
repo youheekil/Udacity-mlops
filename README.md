@@ -9,10 +9,6 @@
 <h3 align="center">Udacity Nanodegree</h3>
 
 
-## About The Nanodegree
-
-Data Streaming skill was gained to be prepared for the next era of data engineering. Learned how to analyze data in real-time using Apache Kafka and Spark, and build applications to process live insights from data at scale.
-
 ## Program Details
 
 During the program, we completed four courses with four projects. Each course had different aim and technologies used - [Certification](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821) ([Certification](https://confirm.udacity.com/K6YJFENE)). 
