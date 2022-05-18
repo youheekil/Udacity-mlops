@@ -11,7 +11,7 @@
 
 ## Program Details
 
-During the program, we completed four courses with four projects ([Certification](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)).
+During the program, we completed four courses with four projects ([Certification](https://confirm.udacity.com/K6YJFENE)).
 
 The program was extraordinary great, providing handful hands-on projects with the detailed and accurate human feedback. MLOps was whole different world and opened my eyes to the world of DevOps and machine learning in production level. 
 
